@@ -72,6 +72,7 @@
 
 ## Proccess
 ### OOA
+---
 - ~ 2022.3.28 : OOPT_1000 (Planning)
 	- ACT 1001 : Define A Draft Plan
 	- ACT 1002 : Preliminary Investigation Plan
@@ -83,13 +84,16 @@
 	- ACT 1008 : Draft System Architecture
 	- ACT 1009 : Define System Test Case
 	- ACT 1010 : Refine Plan 
+
 - ~ 2022.4.18 : OOPT_2030 (Analyze)
 	- ACT 2031 : Define Essential Use-Cases
 	- ACT 2033 : Define System Sequence Diagram
 	- ACT 2035 : Define Domain Model
 	- ACT 2038 : Refine System Test Case
 	- ACT 2039 : Analyze Traceability Analysis
+---
 ### OOD
+---
 - ~ 2022.5.16 : OOPT_2040 (Design)
 	- ACT 2141 : Design Real Use-Case
 	- ACT 2143 : Refine System Architecture
@@ -98,6 +102,7 @@
 	- ACT 2146 : Design Traceability Analysis
 
 - ~ 2022.6.7 : OOPT_1st Cycle (Implementation & Unit Test)
+
 - ~ 2022.6.20 : OOPT_2nd Cycle (Implementation)
 	- Applied 2 Design Patterns 
 		- Singleton Pattern
