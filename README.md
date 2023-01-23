@@ -139,7 +139,10 @@
 - [Team 3_2nd Demo.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
 
 ## DVM Flow Chart
-![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)
+|Flow char|
+|---------|
+|![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)|
+
 
 ## What I referenced
 - [디자인패턴.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477954/default.pdf)</br>
