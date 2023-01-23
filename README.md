@@ -1,15 +1,15 @@
 # 2022-3학년1학기 객체지향 개발방법론 팀프로젝트
-## OOPT_DVM
-##  분산 자판기 시스템의 자판기 controller SW 개발
+## OOPT_DVM - [분산 자판기 시스템의 자판기 controller SW 개발]
 
 ## Overall Description
-
+### 0.0 Course Name
+객체지향개발방법론[Object-Oriented Analysis and Design(OOAD)] (건국대학교 2022 1학기 개설과목)
 ### 1.0 Project Duration
 > #### 2022.3.7 ~ 2022.6.21
 ### 1.1 Project Description
 
 > 분산 자판기란 서버를 두지 않고 각 자판기 시스템이 서로 통신하여 각 자판기의 재고와 위치를 파악하고 안내하는 것이 가능한 분산형 자판기 시스템이다. 분산형 자판기 시스템에서 사용자는 현재 자판기에서 판매하지 않는 제품이 어느 자판기에서 판매되고 있는지 파악하거나 현재 자판기에서 다른 자판기의 상품을 구매할 수 있다.
-
+> Object-Oriented Analysis and Design
 <img width="388" alt="dvm-pfr" src="https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png">
 
 ### 1.2 Rquirements
