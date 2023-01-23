@@ -4,6 +4,8 @@
 
 ## Overall Description
 
+### 1.0 Project Duration
+> #### 2022.3.7 ~ 2022.6.21
 ### 1.1 Project Description
 
 > 분산 자판기란 서버를 두지 않고 각 자판기 시스템이 서로 통신하여 각 자판기의 재고와 위치를 파악하고 안내하는 것이 가능한 분산형 자판기 시스템이다. 분산형 자판기 시스템에서 사용자는 현재 자판기에서 판매하지 않는 제품이 어느 자판기에서 판매되고 있는지 파악하거나 현재 자판기에서 다른 자판기의 상품을 구매할 수 있다.
@@ -117,20 +119,20 @@
 |<img width="343" alt="no-drink-error" src="https://user-images.githubusercontent.com/101445377/213993898-1abdd63a-3084-4ba1-98a0-9309ecdf5d8b.png">|
 
 ---
-## Documentation I made
+# Documentation of Project I made
 - [Team 3:OOPT Stage 1000_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478007/Team.3.OOPT.Stage.1000_v2.pdf)
 - [Team 3:OOPT Stage 2130_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478009/Team.3.OOPT.Stage.2130_v2.pdf)
 - [Team 3:OOPT Stage 2140.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478010/Team.3.OOPT.Stage.2140.pdf)
 - [The 1st demonstration_TEAM3.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478011/The.1st.demonstration_TEAM3.pdf)
 - [Team 3_2nd Demo.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
 
-## DVM Flow Chart
+# DVM Flow Chart
 |Flow chart|
 |--|
 |![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)|
 
 
-## What I referenced
+# What I referenced
 - [디자인패턴.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477954/default.pdf)</br>
 - [iee830-1998-srs.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477956/iee830-1998-srs.pdf)</br>
 - [클린코드.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477959/default.pdf)</br>
