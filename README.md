@@ -132,16 +132,16 @@
 
 ---
 ## Documentation I made
-[Team 3:OOPT Stage 1000_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478007/Team.3.OOPT.Stage.1000_v2.pdf)
-[Team 3:OOPT Stage 2130_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478009/Team.3.OOPT.Stage.2130_v2.pdf)
-[Team 3:OOPT Stage 2140.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478010/Team.3.OOPT.Stage.2140.pdf)
-[The 1st demonstration_TEAM3.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478011/The.1st.demonstration_TEAM3.pdf)
-[[Team 3_2nd Demo].pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
+- [Team 3:OOPT Stage 1000_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478007/Team.3.OOPT.Stage.1000_v2.pdf)
+- [Team 3:OOPT Stage 2130_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478009/Team.3.OOPT.Stage.2130_v2.pdf)
+- [Team 3:OOPT Stage 2140.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478010/Team.3.OOPT.Stage.2140.pdf)
+- [The 1st demonstration_TEAM3.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478011/The.1st.demonstration_TEAM3.pdf)
+- [Team 3_2nd Demo.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
 
 ## DVM Flow Chart
 ![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)
 
 ## What I referenced
-[디자인패턴.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477954/default.pdf)</br>
-[iee830-1998-srs.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477956/iee830-1998-srs.pdf)</br>
-[클린코드.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477959/default.pdf)</br>
+- [디자인패턴.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477954/default.pdf)</br>
+- [iee830-1998-srs.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477956/iee830-1998-srs.pdf)</br>
+- [클린코드.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477959/default.pdf)</br>
