@@ -131,9 +131,19 @@
 <img width="343" alt="no-drink-error" src="https://user-images.githubusercontent.com/101445377/213993898-1abdd63a-3084-4ba1-98a0-9309ecdf5d8b.png">
 
 ---
-## Project Documentation
-<파일들>
+## Documentation I made
+[Team 3:OOPT Stage 1000_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477961/Team.3.OOPT.Stage.1000_v2.pdf)
+ps://github.com/lunarmoon7/OOPT_DVM/files/10477960/System.Traceability_ver2.xlsx)
+[Team 3:OOPT Stage 2130_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477962/Team.3.OOPT.Stage.2130_v2.pdf)
+[Uploading Team 3:OOPT Stage 2140.p
+[[Team 3_2nd Demo].pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477967/Team.3_2nd.Demo.pdf)
+df…]()
+[The 1st demonstration_TEAM3.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477975/The.1st.demonstration_TEAM3.pdf)
+
 ## DVM Flow Chart
-<이미지>
-## What referenced
-<파일들>
+![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)
+
+## What I referenced
+[디자인패턴.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477954/default.pdf)
+[iee830-1998-srs.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477956/iee830-1998-srs.pdf)
+[클린코드.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10477959/default.pdf)
