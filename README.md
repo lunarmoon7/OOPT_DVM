@@ -123,8 +123,8 @@
 - [Team 3:OOPT Stage 1000_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478007/Team.3.OOPT.Stage.1000_v2.pdf)
 - [Team 3:OOPT Stage 2130_v2.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478009/Team.3.OOPT.Stage.2130_v2.pdf)
 - [Team 3:OOPT Stage 2140.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478010/Team.3.OOPT.Stage.2140.pdf)
-- [The 1st demonstration_TEAM3.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478011/The.1st.demonstration_TEAM3.pdf)
-- [Team 3_2nd Demo.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
+- [Team 3:1st_demonstration.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478011/The.1st.demonstration_TEAM3.pdf)
+- [Team 3:2nd_demonstration.pdf](https://github.com/lunarmoon7/OOPT_DVM/files/10478006/Team.3_2nd.Demo.pdf)
 
 # DVM Flow Chart
 |Flow chart|
