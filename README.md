@@ -110,7 +110,7 @@ https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c
 ## Screenshots
 ---
 #### Initial Screen
-https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png
+(https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png)
 #### Menu Screen
 https://user-images.githubusercontent.com/101445377/213993912-07d7230d-1844-47e4-b7cf-614b1c946612.png
 #### Authentication-code Screen
