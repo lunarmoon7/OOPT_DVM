@@ -10,7 +10,7 @@
 
 > 분산 자판기란 서버를 두지 않고 각 자판기 시스템이 서로 통신하여 각 자판기의 재고와 위치를 파악하고 안내하는 것이 가능한 분산형 자판기 시스템이다. 분산형 자판기 시스템에서 사용자는 현재 자판기에서 판매하지 않는 제품이 어느 자판기에서 판매되고 있는지 파악하거나 현재 자판기에서 다른 자판기의 상품을 구매할 수 있다.
 > Object-Oriented Analysis and Design
-<img width="388" alt="dvm-pfr" src="https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png">
+<img width="700" alt="dvm-pfr" src="https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png">
 
 ### 1.2 Rquirements
 > - 총 음료의 개수는 20 종류이다.
@@ -65,7 +65,7 @@
 > - 판매할 수 있는 음료의 종류는 다음과 같다.
 
 ## Development Env
--  IDE : Intellij IDEA Ultimate
+- IDE : Intellij IDEA Ultimate
 - Language: Java
 - GUI : Swing
 - Diagram tools: StarUML
@@ -73,41 +73,41 @@
 ## Proccess
 ### OOA
 ---
-- ~ 2022.3.28 : OOPT_1000 (Planning)
-	- ACT 1001 : Define A Draft Plan
-	- ACT 1002 : Preliminary Investigation Plan
-	- ACT 1003 : Define Requirements
+- <strong>~ 2022.3.28</strong> : OOPT_1000 (Planning)
+	- <strong>ACT 1001</strong> : Define A Draft Plan
+	- <strong>ACT 1002</strong> : Preliminary Investigation Plan
+	- <strong>ACT 1003</strong> : Define Requirements
 		- Functional Requirements
 		- Non-Functional Requirements
-	- ACT 1004 : Terms in Glossary
-	- ACT 1006 : Define Business Use-Case
-	- ACT 1008 : Draft System Architecture
-	- ACT 1009 : Define System Test Case
-	- ACT 1010 : Refine Plan 
+	- <strong>ACT 1004</strong> : Terms in Glossary
+	- <strong>ACT 1006</strong> : Define Business Use-Case
+	- <strong>ACT 1008</strong> : Draft System Architecture
+	- <strong>ACT 1009</strong> : Define System Test Case
+	- <strong>ACT 1010</strong> : Refine Plan 
 
-- ~ 2022.4.18 : OOPT_2030 (Analyze)
-	- ACT 2031 : Define Essential Use-Cases
-	- ACT 2033 : Define System Sequence Diagram
-	- ACT 2035 : Define Domain Model
-	- ACT 2038 : Refine System Test Case
-	- ACT 2039 : Analyze Traceability Analysis
+- <strong>~ 2022.4.18</strong> : OOPT_2030 (Analyze)
+	- <strong>ACT 2031</strong> : Define Essential Use-Cases
+	- <strong>ACT 2033</strong> : Define System Sequence Diagram
+	- <strong>ACT 2035</strong> : Define Domain Model
+	- <strong>ACT 2038</strong> : Refine System Test Case
+	- <strong>ACT 2039</strong> : Analyze Traceability Analysis
 ---
 ### OOD
 ---
-- ~ 2022.5.16 : OOPT_2040 (Design)
-	- ACT 2141 : Design Real Use-Case
-	- ACT 2143 : Refine System Architecture
-	- ACT 2144 : Design Sequence Diagram
-	- ACT 2145 : Define Design Class Diagrams
-	- ACT 2146 : Design Traceability Analysis
+- <strong>~ 2022.5.16</strong> : OOPT_2040 (Design)
+	- <strong>ACT 2141</strong> : Design Real Use-Case
+	- <strong>ACT 2143</strong> : Refine System Architecture
+	- <strong>ACT 2144</strong> : Design Sequence Diagram
+	- <strong>ACT 2145</strong> : Define Design Class Diagrams
+	- <strong>ACT 2146</strong> : Design Traceability Analysis
 
-- ~ 2022.6.7 : OOPT_1st Cycle (Implementation & Unit Test)
+- <strong>~ 2022.6.7</strong> : OOPT_1st Cycle (Implementation & Unit Test)
 
-- ~ 2022.6.20 : OOPT_2nd Cycle (Implementation)
-	- Applied 2 Design Patterns 
+- <strong>~ 2022.6.20</strong> : OOPT_2nd Cycle (Implementation)
+	- <strong>Applied 2 Design Patterns</strong>
 		- Singleton Pattern
 		- Template Method Pattern
-	- Applied Clean Code & PMD
+	- <strong>Applied Clean Code & PMD</strong>
 ---
 ## Screenshots
 |Initial Screen|Menu Screen|Authentication-code Screen|
