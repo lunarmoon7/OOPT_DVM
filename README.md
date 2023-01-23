@@ -109,15 +109,15 @@
 ---
 ## Screenshots
 |Initial Screen|Menu Screen|Authentication-code Screen|
-|--------------|-----------|--------------------------|
+|--|--|--|
 |<img width="603" alt="main-page" src="https://user-images.githubusercontent.com/101445377/213993885-b80dc22a-dfba-480e-abce-236628a876ea.png">|<img width="603" alt="show-menu" src="https://user-images.githubusercontent.com/101445377/213993912-07d7230d-1844-47e4-b7cf-614b1c946612.png">|<img width="301" alt="certcode-form" src="https://user-images.githubusercontent.com/101445377/213993916-d53288c3-22d8-4ab5-9084-307b08662d1c.png">|
-|---|---|---|
+|--|--|--|
 |DVM's coordinates and id having selected drink Screen|Re-check your purchase Screen|Get drink Screen|
-|---|---|---|
+|--|--|--|
 |<img width="501" alt="show-dvm-coord" src="https://user-images.githubusercontent.com/101445377/213993909-ccc6bb44-7135-4441-b818-1b97afb12221.png">|<img width="302" alt="want-to-purchase" src="https://user-images.githubusercontent.com/101445377/213993906-e6fd0f5a-cbe5-4f9d-8120-4e42ddf9ae4d.png">|<img width="601" alt="got-drink" src="https://user-images.githubusercontent.com/101445377/213993903-e93fe975-1bac-4be3-a3dd-433228ab5adb.png">|
-|---|
+|--|--|--|
 |Error if you select non-existent drink Screen|
-|---|
+|--|
 |<img width="343" alt="no-drink-error" src="https://user-images.githubusercontent.com/101445377/213993898-1abdd63a-3084-4ba1-98a0-9309ecdf5d8b.png">|
 
 ---
@@ -130,7 +130,7 @@
 
 ## DVM Flow Chart
 |Flow chart|
-|---------|
+|--|
 |![자판기 시스템 플로우](https://user-images.githubusercontent.com/101445377/213996263-8f9a7941-6558-4aa1-9b0f-15e0fa0fecda.jpeg)|
 
 
