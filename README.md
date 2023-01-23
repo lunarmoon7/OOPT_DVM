@@ -8,7 +8,7 @@
 
 > 분산 자판기란 서버를 두지 않고 각 자판기 시스템이 서로 통신하여 각 자판기의 재고와 위치를 파악하고 안내하는 것이 가능한 분산형 자판기 시스템이다. 분산형 자판기 시스템에서 사용자는 현재 자판기에서 판매하지 않는 제품이 어느 자판기에서 판매되고 있는지 파악하거나 현재 자판기에서 다른 자판기의 상품을 구매할 수 있다.
 
-<이미지>
+https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png
 
 ### 1.2 Rquirements
 > - 총 음료의 개수는 20 종류이다.
@@ -62,8 +62,6 @@
 > - 주고받는 msg는 위 표에서와 동일하게 문자 '_'를 통해서 각 값을 구분한다.
 > - 판매할 수 있는 음료의 종류는 다음과 같다.
 
-<이미지>
-
 ## Development Env
 -  IDE : Intellij IDEA Ultimate
 - Language: Java
@@ -109,6 +107,23 @@
 		- Template Method Pattern
 	- Applied Clean Code & PMD
 ---
+## Screenshots
+---
+#### Initial Screen
+https://user-images.githubusercontent.com/101445377/213994024-dc5ed4ed-277e-487c-8f4c-3e3b0c6e6ebe.png
+#### Menu Screen
+https://user-images.githubusercontent.com/101445377/213993912-07d7230d-1844-47e4-b7cf-614b1c946612.png
+#### Authentication-code Screen
+https://user-images.githubusercontent.com/101445377/213993916-d53288c3-22d8-4ab5-9084-307b08662d1c.png
+#### DVM's coordinates and id having selected drink Screen
+https://user-images.githubusercontent.com/101445377/213993909-ccc6bb44-7135-4441-b818-1b97afb12221.png
+#### Re-check your purchase Screen
+https://user-images.githubusercontent.com/101445377/213993906-e6fd0f5a-cbe5-4f9d-8120-4e42ddf9ae4d.png
+#### Get drink Screen
+https://user-images.githubusercontent.com/101445377/213993903-e93fe975-1bac-4be3-a3dd-433228ab5adb.png
+#### Error if you select non-existent drink Screen
+https://user-images.githubusercontent.com/101445377/213993898-1abdd63a-3084-4ba1-98a0-9309ecdf5d8b.png
+
 ## Project Documentation
 <파일들>
 ## DVM Flow Chart
